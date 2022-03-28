@@ -1,42 +1,25 @@
 # AIFFEL-EXPLORATION
-
-EXPLORATION 01. 인공지능과 가위바위보 하기 (2021.09.23 ~ 2021.09.30) 제출 완료!
-
-EXPLORATION 02. Iris의 세 가지 품종, 분류해볼 수 있겠어요? (2021.09.28 ~ 2021.10.06) 제출 완료! 
-
-EXPLORATION 03. 카메라 스티커앱 만들기 첫걸음 (2021.09.30 ~ 2021.10.07) 제출 완료! ⭐
-
-EXPLORATION 04. 작사가 인공지능 만들기 (2021.10.05 ~ 2021.10.12) 제출 완료!
-
-EXPLORATION 05. 나랑 닮은 연예인은 누구? (2021.10.07 ~ 2021.10.14) 제출 완료!
-
-EXPLORATION 06. 나의 첫 번째 캐글 경진대회, 무작정 따라해보기 (2021.10.12 ~ 2021.10.19) 제출 완료!
-
-EXPLORATION 07. 영화리뷰 텍스트 감성분석하기 (2021.10.14 ~ 2021.10.28) 제출 완료!
-
-EXPLORATION 08. 인물사진을 만들어 보자 (2021.10.19 ~ 2021.10.26) 제출 완료! ⭐
-
-EXPLORATION 09. 아이유팬이 좋아할 만한 다른 아티스트 찾기 (2021.10.26 ~ 2021.11.02) 제출 완료!
-
-EXPLORATION 10. 뉴스 요약봇 만들기 (2021.10.28 ~ 2021.11.04) 제출 완료!
-
-EXPLORATION 11. 폐렴아 기다려라! (2021.11.02 ~ 2021.11.09) 제출 완료!
-
-EXPLORATION 12. 다음에 볼 영화 예측하기 (2021.11.04 ~ 2021.11.11) 제출 완료!
-
-EXPLORATION 13. 인공지능으로 세상에 없던 새로운 패션 만들기 (2021.11.09 ~ 2021.11.16) 제출 완료!
-
-EXPLORATION 14. 어제 오른 내 주식, 과연 내일은? (2021.11.11 ~ 2021.11.18) 제출 완료! ⭐
-
-EXPLORATION 15. 트랜스포머로 만드는 대화형 챗봇 (2021.11.16 ~ 2021.11.23) 제출 완료!
-
-EXPLORATION 16. 흐린 사진을 선명하게 (2021.11.18 ~ 2021.11.25) 제출 완료!
-
-EXPLORATION 17. 인간보다 퀴즈를 잘푸는 인공지능 (2021.11.23 ~ 2021.11.30) 제출 완료!
-
-EXPLORATION 18. 문자를 읽을 수 있는 딥러닝 (2021.11.25 ~ 2021.12.02) 제출 완료!
-
-EXPLORATION 19. 난 스케치를 할 테니 너는 채색을 하거라 (2021.11.30 ~ 2021.12.07) 제출완료! ⭐
+||title|content|description|
+|---|---|---|---|
+|1|[인공지능과 가위바위보 하기](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2001)|Sequential Model||
+|2|[Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2002)|machine learning(classification)||
+|3|[카메라 스티커앱 만들기 첫걸음](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2003)|face detection||
+|4|[작사가 인공지능 만들기](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2004)|LSTM||
+|5|[나랑 닮은 연예인은 누구?](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2005)|FaceNet|Face recognition|
+|6|[나의 첫 번째 캐글 경진대회, 무작정 따라해보기](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2006)|machine learning||
+|7|[영화리뷰 텍스트 감정분석하기](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2007)|Text classification||
+|8|[인물사진을 만들어 보자](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2008)|semantic segmentation||
+|9|[아이유팬이 좋아할 만한 다른 아티스트 찾기](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2009)|Recommender System||
+|10|[뉴스 요약봇 만들기](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2010)|Attentional seq2seq||
+|11|[폐렴아 기다려라!](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2011)|CNN||
+|12|[다음에 볼 영화 예측하기](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2012)|Session-based Recommendation||
+|13|[인공지능으로 세상에 없던 패션 만들기](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2013)|GAN, DCGAN||
+|14|[어제 오른 내 주식, 과연 내일은?](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2014)|ARIMA 시계열 분석법||
+|15|[트랜스포머로 만드는 대화형 챗봇](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2015)|Transformer||
+|16|[흐린 사진을 선명하게](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2016)|Super Resolution||
+|17|[인간보다 퀴즈를 잘 푸는 인공지능](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2017)|BERT||
+|18|[문자를 읽을 수 있는 딥러닝](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2018)|OCR||
+|19|[난 스케치를 할 테니 너는 채색을 하거라](https://github.com/ghwlsdl/AIFFEL-EXPLORATION/tree/main/Exp%2019)|Pix2Pix||
 
 쥬피터 파일의 용량이 너무 커서 쥬피터 환경에서 로드 되지 않는 경우,
 
